@@ -1,4 +1,4 @@
-package com.rookies3.myspringbootlab.entity;
+package com.rookies4.myspringbootlab.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

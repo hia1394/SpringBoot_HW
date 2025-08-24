@@ -1,4 +1,4 @@
-package com.rookies3.myspringbootlab;
+package com.rookies4.myspringbootlab;
 
 
 import org.springframework.boot.SpringApplication;

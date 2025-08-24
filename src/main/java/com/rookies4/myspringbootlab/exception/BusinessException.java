@@ -1,4 +1,4 @@
-package com.rookies3.myspringbootlab.exception;
+package com.rookies4.myspringbootlab.exception;
 
 import lombok.Getter;
 import org.springframework.http.HttpStatus;

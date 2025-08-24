@@ -1,4 +1,4 @@
-package com.rookies3.myspringbootlab.properties;
+package com.rookies4.myspringbootlab.properties;
 
 
 import lombok.Getter;

@@ -1,8 +1,8 @@
-package com.rookies3.myspringbootlab.runner;
+package com.rookies4.myspringbootlab.runner;
 
 
-import com.rookies3.myspringbootlab.config.MyEnvironment;
-import com.rookies3.myspringbootlab.properties.MyPropProperties;
+import com.rookies4.myspringbootlab.config.MyEnvironment;
+import com.rookies4.myspringbootlab.properties.MyPropProperties;
 import org.springframework.beans.factory.annotation.Value;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

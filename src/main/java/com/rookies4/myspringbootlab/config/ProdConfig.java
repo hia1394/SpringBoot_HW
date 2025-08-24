@@ -1,17 +1,17 @@
-package com.rookies3.myspringbootlab.config;
-
+package com.rookies4.myspringbootlab.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-@Profile("test")
+@Profile("prod")
 @Configuration
-public class TestConfig {
+public class ProdConfig {
     @Bean
     public MyEnvironment myEnvironment(){
         return MyEnvironment.builder()
-                .mode("개발환경")
+                .mode("운영환경")
                 .build();
     }
-    }
+
+}

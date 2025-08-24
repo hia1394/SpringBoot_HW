@@ -1,7 +1,7 @@
-package com.rookies3.myspringbootlab.repository;
+package com.rookies4.myspringbootlab.repository;
 
 
-import com.rookies3.myspringbootlab.entity.Book;
+import com.rookies4.myspringbootlab.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
